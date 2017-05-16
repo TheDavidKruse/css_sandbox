@@ -1,50 +1,34 @@
-# css_sandbox
+# CSS Sandbox
 
-OBJECTIVE: This workshop is designed to explore the foundations of CSS. 
+OBJECTIVE: This workshop is designed to give students more tangible "css copycat" exercises that mirror real world CSS widgets and layouts. 
 
-EXIT TICKETS: By the end of the workshop, students will be able to style a CNN website widget using various CSS styles. 
+## LEVEL ONE: 
 
-1. Level one should be able to at least the core layout of the widget without assisteance. 
-2. Level two should be able to reproduce the entire widget
-3. Level three should be able to reproduce the entire widget and add an hover effect to vinyl record image
+1. DESIGN THE CNN WIDGET called 'mockup.jpg'.  The images needed for this exercise are in the repo itself. 
+![](https://github.com/Nmuta/css_sandbox/blob/master/mockup.jpg) 
 
-DO NOW: 
 
-Create a box within a box in CSS, where each box has a different color. 
+## LEVEL TWO: 
+3. Reproduce the entire widget and add an hover effect to vinyl record image. In other words, when you hover the first vinyl image, the album covers image should be replaced with the image of the record player.  Note that in order to achieve this, you may need to use a background image called 'vinyl_hover.jpg'. On hover, the background image should shift so that the record player image shows. Research how to do this.  This is a common trick for hover effects for images. 
 
-TOPICS: 
+![](https://github.com/Nmuta/css_sandbox/blob/master/vinyl_hover.jpg) 
+ 
 
-Selectors
-  examples:  p ,  #my_id , .this_class
-  order of selectors and combining selectors
 
-The Box Model
-  Content area, padding, border, margin
 
-Position related
-  float
-  position: static relative absolute fixed
-  examples
+## LEVEL THREE: 
 
-display:
-  none, block, [inline], [inline-block]
+Mimicking a full page layout 
 
-Image related
-  background: url('file.jpg')
-  
-Pseudo classes
-  :hover
-  
-CLASS #2: 
+* STUDY THE SHORT TERM HOUSING website layout from 2013:
+1. Design the header with logo and links (not including social icons)
 
-OBJECTIVE: This workshop is designed to help people explore designing header and body sections of a website
 
-EXIT TICKETS: By the end of the workshop, students will be able to copy aspects of the Short Term Housing website 
+## LEVEL FOUR: 
+1. Reproduce the entire header and at least one component of the main body
 
-1. Level one should be able to design the header with logo and links (not including social icons)
-2. Level two should be able to reproduce the entire header and at least one component of the main body
-3. Level three should be able to reproduce the header and the fully body including input form and photo gallery with a CSS :hover rollover effect on the image panel. 
+## LEVEL FIVE: 
+3. Reproduce the header and the fully body including input form and photo gallery with a CSS :hover rollover effect on the image panel. 
 
-DO NOW:  Visit ShortTermHousing.com and come up with a strategy to carve up the the header and body of the page. Be prepared to discuss with class.  Also, come up to board and fill in your name on the seating chart. 
 
 

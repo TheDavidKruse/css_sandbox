@@ -12,6 +12,10 @@ OBJECTIVE: This workshop is designed to give students more tangible "css copycat
 *Reproduce the entire widget and add an hover effect to vinyl record image. In other words, when you hover the first vinyl image, the album covers image should be replaced with the image of the record player.  Note that in order to achieve this, you may need to use a background image called 'vinyl_hover.jpg'. On hover, the background image should shift so that the record player image shows. Research how to do this.  This is a common trick for hover effects for images. 
 
 ![](https://github.com/Nmuta/css_sandbox/blob/master/vinyl_hover.jpg) 
+
+Desired effect: 
+
+![](https://github.com/Nmuta/css_sandbox/blob/master/hover.gif)
  
 
 

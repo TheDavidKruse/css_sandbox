@@ -21,6 +21,8 @@ OBJECTIVE: This workshop is designed to give students more tangible "css copycat
 Mimicking a full page layout 
 
 * STUDY THE SHORT TERM HOUSING website layout from 2013:
+![](https://github.com/Nmuta/css_sandbox/blob/master/responsive/psd/STH_homepage-V3.3.psd)
+
 1. Design the header with logo and links (not including social icons)
 
 

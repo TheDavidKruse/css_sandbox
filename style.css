@@ -3,6 +3,8 @@
   font-family: Verdana;
   float:left;
   width: 460px;
+  position:absolute;
+  bottom:0;
 }
 /*Picture div details*/
 #picture{
@@ -55,5 +57,4 @@ background-position: -460px;
   height:45px;
   margin: 10px 0 0 5px;
   color: #505050;
-
 }
